@@ -1,0 +1,23 @@
+.tablee{
+    width: 90vw  !important;
+    margin:20px auto;
+    border:1px solid whitesmoke;
+  
+}
+
+.tablee table tbody tr{
+    box-shadow: 1px 1px 1px 1px whitesmoke;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    height:50px
+
+}
+.tablee table{
+    width: 100%;
+}
+.tablee table thead tr {
+    box-shadow: 1px 1px 1px 1px whitesmoke;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    height:50px
+}

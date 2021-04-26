@@ -1,0 +1,35 @@
+.teams_form {
+    height: 150px;
+    display: flex;
+    background-color: rgb(140, 188, 230);
+    display: flex;
+    flex-direction: column;
+  }
+  .teams_form form {
+      display: flex;
+    height: 100px;
+    align-items: center;
+    margin-top: 30px;
+  
+    padding: 20px auto;
+    justify-content: space-around;
+  }
+  .teams_form form input {
+    outline: none;
+    border: none !important;
+    width:170px;
+    background-color: whitesmoke !important;
+  
+    margin: auto 20px;
+    background-color: transparent;
+  }
+  .teams_form form select {
+      width:150px !important;
+    outline: none;
+    border: none;
+    
+    margin: auto 20px;
+    background-color: whitesmoke !important;
+  }
+  
+  
